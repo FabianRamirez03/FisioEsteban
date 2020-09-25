@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c72fb55-7e92-4d94-ad74-966943bfa831" name="Default Changelist" comment="" />
+    <list default="true" id="6c72fb55-7e92-4d94-ad74-966943bfa831" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Main/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Certificados/CertificadoDesarrolloWeb.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/Certificados/CertificadoDesarrolloWeb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Certificados/vendasFrame.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/Certificados/vendasFrame.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/avataaars.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/avataaars.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/cabin.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/portfolio/cabin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/cake.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/portfolio/cake.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/circus.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/portfolio/circus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/game.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/portfolio/game.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/logoER.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/portfolio/logoER.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/logoNavBar.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/portfolio/logoNavBar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/safe.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/portfolio/safe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/submarine.png" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/img/portfolio/submarine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mail/contact_me.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/mail/contact_me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mail/contact_me.php" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/mail/contact_me.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mail/jqBootstrapValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main/assets/mail/jqBootstrapValidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Main/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main/js/scripts.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +36,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hyPLeQhsYQDQ0wBnRsw0ofZho8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +58,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -54,7 +81,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600980303778</updated>
-      <workItem from="1600980307305" duration="14356000" />
+      <workItem from="1600980307305" duration="15186000" />
+      <workItem from="1601004514586" duration="714000" />
+      <workItem from="1601006127140" duration="359000" />
     </task>
     <servers />
   </component>
